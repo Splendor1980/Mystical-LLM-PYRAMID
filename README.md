@@ -115,6 +115,8 @@ bf16 autocast на T4, чекпойнты пушились в облако ка�
 
 ## Ссылки
 
+- **Hugging Face** (model card, веса fp16/fp32, токенизатор):
+  <https://huggingface.co/IliaMurzinov/mystica-rwkv-11m>
 - RWKV-5/6 (Eagle/Finch): <https://arxiv.org/abs/2404.05892>
 - RWKV-LM: <https://github.com/BlinkDL/RWKV-LM>
 - nanoRWKV (каркас трейнера): <https://github.com/BlinkDL/nanoRWKV>
