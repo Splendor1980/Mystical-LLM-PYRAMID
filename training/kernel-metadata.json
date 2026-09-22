@@ -1,0 +1,19 @@
+{
+  "id": "splendor1/mystic-rwkv-5-2-11m-train",
+  "title": "Mystic RWKV-5.2 11M train",
+  "subtitle": "Auto runs A->B->C, pushes checkpoints to splendor1/mystic-rwkv-checkpoints",
+  "code_file": "mystic-rwkv-train.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "splendor1/mystic-rwkv-data",
+    "splendor1/mystic-rwkv-checkpoints"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

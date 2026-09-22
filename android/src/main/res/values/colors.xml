@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#16102E</color>
+    <color name="bg_dark">#0F0A20</color>
+    <color name="surface">#241B43</color>
+    <color name="surface_hi">#2E2452</color>
+    <color name="accent">#E8A33B</color>
+    <color name="accent_dim">#B97E2A</color>
+    <color name="text">#F5EDDC</color>
+    <color name="text_muted">#A99CC4</color>
+    <color name="user_bubble">#3A2C63</color>
+    <color name="bot_bubble">#241B43</color>
+    <color name="bordeaux">#7A2545</color>
+</resources>

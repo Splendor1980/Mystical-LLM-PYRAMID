@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мистика</string>
+    <string name="app_subtitle">умная книга</string>
+    <string name="title_header">Мистика</string>
+    <string name="hint_input">Задай вопрос Оку…</string>
+    <string name="send">Отправить</string>
+    <string name="btn_settings">Настройки</string>
+    <string name="btn_reload">Перечитать</string>
+    <string name="btn_clear">Очистить</string>
+    <string name="status_loading">Загружаю память древних…</string>
+    <string name="status_think">Око приоткрылось…</string>
+    <string name="status_idle">Око спит</string>
+    <string name="onboard_title">Добро пожаловать</string>
+    <string name="onboard_text">Это офлайн-книга-оракул. Ты задаёшь вопрос — Мистика отвечает, не выходя в сеть.\n\nСовет: не используй знаки «?», «!», «%» и «;» — маленький словарь их не знает, просто задай вопрос без знаков.\n\nНачинать?</string>
+    <string name="onboard_ok">Начать</string>
+    <string name="dlg_title">Мера откровения</string>
+    <string name="dlg_save">Сохранить</string>
+    <string name="dlg_cancel">Отмена</string>
+</resources>

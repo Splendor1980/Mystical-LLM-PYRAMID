@@ -1,0 +1,9 @@
+# Teki LFS на бинарные веса
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+
+# Служебное
+*~ 
+*.tmp
+.DS_Store
+Thumbs.db

@@ -1,0 +1,15 @@
+# Секреты
+keys/
+*.keystore
+*.pass.txt
+*.pem
+.access_token
+.kaggle/
+
+# Сборки и рабочие артефакты
+build/
+out/
+*.apk
+
+# Локальные заметки
+*.log
